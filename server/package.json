@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "postgres": "^3.3.5",
+    "postman": "^0.2.0"
+  }
+}
