@@ -32,11 +32,11 @@ function App() {
       <main>
         <ul>
           <div>Movies</div>
-          <ls>{movies[0].title}</ls>
-          <ls>{movies[1].title}</ls>
-          <ls>{movies[2].title}</ls>
-          <ls>{movies[3].title}</ls>
-          <ls>{movies[4].title}</ls>
+          <li>{movies[0].title}</li>
+          <li>{movies[1].title}</li>
+          <li>{movies[2].title}</li>
+          <li>{movies[3].title}</li>
+          <li>{movies[4].title}</li>
         </ul>
       </main>
       <footer>
